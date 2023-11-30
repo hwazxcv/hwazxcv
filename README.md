@@ -1,7 +1,7 @@
 ### ![header](https://capsule-render.vercel.app/api?type=waving&text=GitHub)
 
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
