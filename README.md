@@ -13,6 +13,8 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
+        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=git&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
