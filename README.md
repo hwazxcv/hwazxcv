@@ -6,15 +6,17 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+        <img src="https://img.shields.io/badge/RESTful API-61DAFB?style=for-the-badge&logo=restful api&logoColor=black">
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white">
-        <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Jsp-007396?style=for-the-badge&logo=JSP&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
