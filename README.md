@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Jsp-007396?style=for-the-badge&logo=JSP&logoColor=white">
-        <img src="https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+        <img src="https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=Spring Data Jpa&logoColor=white">
     </div>
     <div>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
